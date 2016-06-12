@@ -385,7 +385,7 @@
         <profile>
             <id>maven2</id>
                         <activation>
-                <activeByDefault>true</activeByDefault>
+                <activeByDefault>false</activeByDefault>
             </activation>
             <build>
                 <plugins>
